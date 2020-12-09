@@ -1,5 +1,4 @@
-# Java-test2
-# 计192 2019310191 齐睿
+# 计192 2019310204 马宇豪
 # Java 实验
 Java课程作业项目仓库
 # 阅读程序
@@ -279,11 +278,13 @@ public static void printAll() {
 ```
 ## 系统运行截图  
 ***Picture1.choose coures：***
-![JavaChooseCourse.jpg](https://i.loli.net/2020/10/25/latd8OJBP2yVQIZ.jpg)   
+![JavaChooseCourse.jpg](https://github.com/mayuhao1023/JAVA3/blob/main/6c4badeeea7f8b6937f1338e0303f64.png)   
+![JavaExitCourse.jpg](https://github.com/mayuhao1023/JAVA3/blob/main/424bbca27ef0b45b92b4339a2557e6f.png)  
   
   
-***Picture2.exit course：***
-![JavaExitCourse.jpg](https://i.loli.net/2020/10/25/MlCdcyD9PguVbYE.jpg)   
+***Picture2.exit course：*** 
+
+![JavaExitCourse.jpg](https://github.com/mayuhao1023/JAVA3/blob/main/feacd67ac8eba085e6e64a3e8f69f58.png)   
 ## 实验感想  
 **通过本次实验，我学会并熟悉了前半学期的课程内容：  
 *第二章：基本数据类型、输入输出数据  
